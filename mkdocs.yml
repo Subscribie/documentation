@@ -1,7 +1,7 @@
 site_name: Subscribie Subscription Website Builder
 site_url: https://example.com/
 repo_url: https://github.com/Subscribie/documentation
-edit_uri: blob/edit/main/docs
+edit_uri: edit/main/docs
 site_description: Subscription website builder documentation
 
 nav:
