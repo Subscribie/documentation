@@ -1,2 +1,2 @@
-# Subscribie - Subscriptiion Website Builder
+# Subscribie - Subscription Website Builder
 
